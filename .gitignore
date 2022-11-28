@@ -2,3 +2,5 @@
 *.rpm
 *.zip
 .vagrant
+.war
+.gz
